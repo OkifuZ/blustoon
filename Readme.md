@@ -23,4 +23,4 @@ Author: Siyan Zhu (Okifu)
 ![alt text](media/image.png)
 
 ## Fast Forward
-[Fast Forward](https://youtu.be/5yirauGsRxo)
+Video: [Fast Forward](https://youtu.be/5yirauGsRxo)
