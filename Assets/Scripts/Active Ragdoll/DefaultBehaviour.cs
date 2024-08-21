@@ -153,7 +153,10 @@ public class DefaultBehaviour : MonoBehaviour {
         }
         else {
             _activeRagdoll.onFloor = false;
-            StartCoroutine(teleport(_activeRagdoll, Controller.instance._currentEnvironment.transform.position));
+            if (Controller.instance._currentEnvironment != null)
+            {
+                StartCoroutine(teleport(_activeRagdoll, Controller.instance._currentEnvironment.transform.position));
+            }
             /*Vector3 diff = Controller.instance._currentEnvironment.transform.position - _activeRagdoll.PhysicalTorso.transform.position + new Vector3(0, 3, 0);
             var rbs = _activeRagdoll.PhysicalTorso.GetComponentsInChildren<Rigidbody>();
             foreach (var rb in rbs)

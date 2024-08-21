@@ -5784,7 +5784,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeCounter: 0
-  countDownTimer: 90
+  countDownTimer: 60
   isCountDown: 1
   timerText: {fileID: 1796481398}
   LayerText: {fileID: 479628930}
@@ -27727,7 +27727,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 3
 --- !u!1 &542055878680170255
 GameObject:
   m_ObjectHideFlags: 0
@@ -27855,7 +27855,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 3
 --- !u!4 &570293979694578716
 Transform:
   m_ObjectHideFlags: 0
@@ -31922,7 +31922,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 3
 --- !u!1 &1959316763359503625
 GameObject:
   m_ObjectHideFlags: 0
@@ -55060,7 +55060,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 3
 --- !u!1 &5187765702524908545
 GameObject:
   m_ObjectHideFlags: 0
@@ -55268,7 +55268,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 3
 --- !u!1 &5258456148060849113
 GameObject:
   m_ObjectHideFlags: 0
@@ -55514,7 +55514,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 3
 --- !u!114 &5327742951666324528
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -71634,7 +71634,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 3
 --- !u!1 &7894249338762593142
 GameObject:
   m_ObjectHideFlags: 0
@@ -73891,7 +73891,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 3
 --- !u!1 &8955815992059982869
 GameObject:
   m_ObjectHideFlags: 0

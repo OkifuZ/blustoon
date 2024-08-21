@@ -189,6 +189,7 @@ public class Controller : MonoBehaviour
         // MakeEnvDisappear();
         canvas.gameObject.SetActive(false);
         SceneManager.LoadScene(2);
+        _layerNum = layerNum;
 
         GameObject go1 = GameObject.Find("Winner");
         GameObject go2 = GameObject.Find("Looser");
@@ -201,6 +202,8 @@ public class Controller : MonoBehaviour
         inMenu = false;
         paused = false;
 
+        _layerNum = layerNum;
+        
         canvas.gameObject.SetActive(false);
         AfterResetDown = true;
         /*PauseMenu pauseMenu = canvas.GetComponent<PauseMenu>();
@@ -242,6 +245,8 @@ public class Controller : MonoBehaviour
     {
         //Debug.Log("after play");
         canvas.gameObject.SetActive(false);
+
+        _layerNum = layerNum;
         
         inMenu = false;
         paused = false;
