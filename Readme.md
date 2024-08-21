@@ -4,6 +4,10 @@ IEG魔方工作室客户端组超新星项目
 
 Author: Siyan Zhu (Okifu)
 
+## Fast Forward
+Video: [Fast Forward](https://youtu.be/5yirauGsRxo)
+
+
 ## Game Content
 
 缝合***Animal Party***和***Splatoon***：Blustoon = Animal Party + Splatoon ！
@@ -22,5 +26,3 @@ Author: Siyan Zhu (Okifu)
 
 ![alt text](media/image.png)
 
-## Fast Forward
-Video: [Fast Forward](https://youtu.be/5yirauGsRxo)
