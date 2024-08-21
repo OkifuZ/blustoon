@@ -4,7 +4,6 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 
 namespace ActiveRagdoll {
-    // Author: Sergio Abreu García | https://sergioabreu.me
 
     /// <summary> Tells the ActiveRagdoll what it should do. Input can be external (like the
     /// one from the player or from another script) and internal (kind of like sensors, such as

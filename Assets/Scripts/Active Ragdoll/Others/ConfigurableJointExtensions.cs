@@ -2,7 +2,6 @@
 
 namespace ActiveRagdoll {
 	public static class ConfigurableJointExtensions {
-		// Author: Michael Stevenson | https://www.mstevenson.net/
 
 		/// <summary>
 		/// Sets a joint's targetRotation to match a given local rotation.

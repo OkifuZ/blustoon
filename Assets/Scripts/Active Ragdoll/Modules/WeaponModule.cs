@@ -7,7 +7,6 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 
 namespace ActiveRagdoll {
-    // Author: Sergio Abreu García | https://sergioabreu.me
 
     public class WeaponModule : Module
     {

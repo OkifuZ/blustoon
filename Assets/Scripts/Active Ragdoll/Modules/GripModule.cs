@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 namespace ActiveRagdoll {
-    // Author: Sergio Abreu García | https://sergioabreu.me
 
     public class GripModule : Module {
         [Tooltip("What's the minimum weight the arm IK should have over the whole " +

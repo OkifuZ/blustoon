@@ -8,7 +8,6 @@ using UnityEngine;
 using UnityEngine.Animations.Rigging;
 
 namespace ActiveRagdoll {
-    // Author: Sergio Abreu García | https://sergioabreu.me
 
     [RequireComponent(typeof(InputModule))]
     public class ActiveRagdoll : MonoBehaviour

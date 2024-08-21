@@ -5,7 +5,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 namespace ActiveRagdoll {
-    // Author: Sergio Abreu García | https://sergioabreu.me
 
     [Serializable] public struct JointDriveConfig {
         // Variables are exposed in the editor, but are kept readonly from code since

@@ -6,7 +6,6 @@ using UnityEngine;
 using UnityEngine.Animations.Rigging;
 
 namespace ActiveRagdoll {
-    // Author: Sergio Abreu García | https://sergioabreu.me
 
     public class AnimationModule : Module {
         [Header("--- BODY ---")]
