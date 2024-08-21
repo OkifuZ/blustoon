@@ -23,4 +23,4 @@ Author: Siyan Zhu (Okifu)
 ![alt text](media/image.png)
 
 ## Fast Forward
-<video controls src="media/FastForward.mp4" title="Title"></video>
+<video controls src="https://github.com/OkifuZ/blustoon/media/FastForward.mp4" title="Title"></video>
