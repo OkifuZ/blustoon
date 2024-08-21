@@ -20,4 +20,7 @@ Author: Siyan Zhu (Okifu)
 
 ## Game Control
 
-![alt text](image.png)
+![alt text](media/image.png)
+
+## Fast Forward
+<video controls src="media/FastForward.mp4" title="Title"></video>
