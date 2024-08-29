@@ -22,6 +22,15 @@ Video: [Fast Forward](https://youtu.be/5yirauGsRxo)
 
 > 游戏机制较多，可以慢慢发掘~~
 
+**从技术上，该项目试图融合：**
+- 类似Animal Party或Human Fallflat的Active Ragdoll，重点解决可控性，操作流畅度与物理效果的平衡。部分参考[GDC2020 Star War](https://www.youtube.com/watch?v=TmAU8aPekEo)
+- 类似Splatoon的墨水系统，包含渲染与物体表面染色。该部分技术直接来源为[GDC2020 Bleeding Edge Effects](https://www.youtube.com/watch?v=c7HBxBfCsas)，Mix and Jam在Youtube有[教程](https://www.youtube.com/watch?v=FR618z5xEiM)。
+
+
+
+
+
+
 ## Game Control
 
 ![alt text](media/image.png)
