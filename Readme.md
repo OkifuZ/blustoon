@@ -1,6 +1,6 @@
 # Blustoon
 
-IEG魔方工作室客户端组超新星项目 
+IEG Morefun Studio Supernova project
 
 Author: Siyan Zhu (Okifu)
 
@@ -20,7 +20,7 @@ Video: [Fast Forward](https://youtu.be/5yirauGsRxo)
 三关结束后触发结算界面~
 
 
-> 游戏机制可能难以短时间全部发掘，请慢慢享受
+> 游戏机制较多，可以慢慢发掘~~
 
 ## Game Control
 
